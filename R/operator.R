@@ -10,6 +10,7 @@
 #'            like "@info" or an entire message.
 #' @param rhs Optional if operator is used with function syntax
 #' @examples
+#' \dontrun{
 #' # Conventional Use:
 #' "@info" %>>% "Output some form of informational message"
 #' "" %>>% "This will also work, but is a bit odd"
@@ -25,7 +26,7 @@
 #'
 #' some_value <- rnorm(1)
 #' "@success" %>>% "Since you can use glue, you can pass variables {some_value}."
-#'
+#' }
 #' @seealso `output`
 #' @export
 `%>>%` <- function(lhs, rhs) {

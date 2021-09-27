@@ -5,9 +5,8 @@ home:
 url: https://logdec.justinsingh.me
 
 template:
-  bootstrap: 4
   params:
-    bootswatch: litera
+    bootswatch: cosmo
   
 reference:
   - contents:
