@@ -1,0 +1,16 @@
+home:
+  title: Log Decorators
+  description: Comment-based verbose output, with `cli` and `logger` support.
+
+url: https://logdec.justinsingh.me
+
+template:
+  bootstrap: 4
+  params:
+    bootswatch: litera
+  
+reference:
+  - contents:
+    - output
+    - matches("%>>%")
+    - list_engines
