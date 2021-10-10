@@ -19,7 +19,6 @@ Suggests:
     logger
 Imports:
     glue,
-    knitr,
     whereami
 Config/testthat/edition: 3
 Encoding: UTF-8
