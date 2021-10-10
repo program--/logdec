@@ -11,7 +11,7 @@ Description: Easily manage output for your Rscript using "#>>" comments with spe
              identifying tags, such as "@info" or "@warning" to change the detail of
              your output.
 URL: https://logdec.justinsingh.me, https://github.com/program--/logdec
-BugReports: https://github.com/program--/modeltargets/issues
+BugReports: https://github.com/program--/logdec/issues
 License: MIT + file LICENSE
 Suggests: 
     testthat (>= 3.0.0),
